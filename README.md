@@ -57,4 +57,4 @@ El usuario es: `admin` y la contraseña es: `admin`.
 
 ## Requirementos del Servidor
 
-Esta App se creo en la version 8.3.0PHP version 7.1 o superior es requerido.
+Esta App se creo en la version 8.3.0 PHP version 7.1 o superior es requerido.
